@@ -1,0 +1,92 @@
+body {
+   
+    font-family: "Libre Caslon Display", serif;
+    
+
+    
+}
+
+.breadcrumb-2 .col-xxl-12{
+    margin-top: 300px;
+    margin-bottom: 200px;   
+    
+}
+
+.breadcrumb__inner{
+    
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.container-1 {
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+  max-width: 1200px;
+  margin: auto;
+  align-items: center;
+  gap: 40px;
+  background-color: #0c0c0e;
+  border-radius: 20px;
+}
+
+
+.contact-form {
+  flex: 1;
+  max-width: 700px;
+
+}
+
+.contact-form h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.contact-form p {
+  margin-bottom: 30px;
+  color: #ccc;
+}
+
+.contact-form form input,
+.contact-form form textarea {
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  background-color: #1e1e1e;
+  color: #fff;
+  font-size: 1em;
+}
+
+.contact-form .buttons {
+  display: flex;
+  gap: 15px;
+  padding: 3px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.clear {
+  background-color: #333;
+  color: #fff;
+}
+
+.send {
+  background-color:  rgba(30, 85, 251, 0.73);;
+  color: #fff;
+}
+
+.image-section img {
+  max-width: 500px;
+  width: 100%;
+  border-radius: 12px;
+}
+
